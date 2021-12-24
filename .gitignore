@@ -1,0 +1,9 @@
+benchmarks
+verifications
+.vscode
+.vscode/
+.idea/
+build/
+build-clang/
+cmake-build-debug/
+CMakeLists.txt.user
